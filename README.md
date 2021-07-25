@@ -1,1 +1,1 @@
-# 2nd training project
+ training project
