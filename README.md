@@ -1,1 +1,1 @@
- training project
+Landing page, training project
